@@ -1,1 +1,6 @@
-# I am a rubocop file in a php project. Did I ever get lost.
+Style/SingleSpaceBeforeFirstArg:
+    Enabled: false
+Style/ZeroLengthPredicate:
+    Enabled: false
+Style/WhileUntilDo:
+    Enabled: true
