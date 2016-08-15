@@ -3,4 +3,4 @@ Style/SingleSpaceBeforeFirstArg:
 Style/ZeroLengthPredicate:
     Enabled: false
 Style/WhileUntilDo:
-    Enabled: false
+    Enabled: true
