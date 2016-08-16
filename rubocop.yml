@@ -1,6 +1,6 @@
-Style/SingleSpaceBeforeFirstArg:
-    Enabled: false
-Style/ZeroLengthPredicate:
-    Enabled: false
-Style/WhileUntilDo:
+Style/FlipFlop:
+    Enabled: true
+Style/FileName:
+    Enabled: true
+Style/EvenOdd:
     Enabled: true
