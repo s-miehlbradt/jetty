@@ -1,0 +1,4 @@
+checks:
+    ruby: 
+        style_global_vars: true
+        style_flip_flop: true
